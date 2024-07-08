@@ -5,6 +5,7 @@
 //! See the [repository documentation](https://github.com/olson-sean-k/wax/blob/master/README.md)
 //! for details about glob expressions and patterns.
 
+#![type_length_limit="78354675"]
 #![cfg_attr(docsrs, feature(doc_cfg))]
 #![doc(
     html_favicon_url = "https://raw.githubusercontent.com/olson-sean-k/wax/master/doc/wax-favicon.svg?sanitize=true"
